@@ -738,6 +738,7 @@ function initMap() {
 		title: 'We are here!'
 	});*/
 }
+
 if ('serviceWorker' in navigator) {
 	navigator.serviceWorker.register('service-worker.js');
 }
