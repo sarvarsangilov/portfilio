@@ -1,0 +1,36 @@
+{
+  "name": "Sarvar Sangilov",
+  "short_name": "Sarvar Sangilov",
+  "icons": [
+    {
+      "src": "icons/android-launchericon-72-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android-launchericon-96-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android-launchericon-144-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "uz-UZ",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010"
+}
